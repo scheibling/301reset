@@ -22245,12 +22245,12 @@ a.text-dark:focus, a.text-dark:hover {
 
 @font-face {
     font-family: OpenSans-Regular;
-    src: url("fonts/OpenSans/OpenSans-Regular.ttf");
+    src: url("fonts/OpenSans-Regular.ttf");
 }
 
 @font-face {
     font-family: OpenSans-Bold;
-    src: url("fonts/OpenSans/OpenSans-Bold.ttf");
+    src: url("fonts/OpenSans-Bold.ttf");
 }
 
 * {
@@ -22530,9 +22530,9 @@ input.input100 {
 .reset301-information {
     border-radius: 12px;
     margin-bottom: 25px;
-
-    font-family: OpenSans-Bold;
-    font-size: 15px;
+    margin-top: 25px;
+    font-family: OpenSans-Regular;
+    font-size: 12px;
     color: rgb(255, 255, 255);
     line-height: 1.2;
     display: flex;
